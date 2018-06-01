@@ -1,0 +1,14 @@
+<!--
+This is html fam!
+<h1>word count</h1>
+{{ Hithere }}
+-->
+
+<h1>word count</h1>
+<!-- <form action="count">-->
+<a href="{% url 'about' %}">About this site</a>
+<form action="{% url 'count' %}">
+  <textarea cols="40" rows="10" name="fulltext"></textarea>
+  <br />
+  <input type="submit" value="Count!"/>
+</form>
