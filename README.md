@@ -47,6 +47,7 @@ You can also refer to the below link on how to [install python3](http://programw
 
 4. You can go to the server http://127.0.0.1:8000/ to test the website. When you input characters in the textarea, then click the "count!" button, the output should just be like below:
 
+
 ```
 There are 22 words in your text
 Start Again
