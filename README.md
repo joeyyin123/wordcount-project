@@ -7,18 +7,23 @@ wordcount-project
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See Running the tests for notes on how to deploy the project on a live system.
 You can use this website to compute the characters easily.
 
-#Prerequisites
+**Prerequisites**
 
 Django is a free and open source web application framework, written in Python. A web framework is a set of components that helps you to develop websites faster and easier.
-##Installing Django
+**Installing Django**
+
 > pip install Django==2.0.5
+
 You can also refer to the below link on how to install all the three options to get Django [Download Django](https://www.djangoproject.com/download/).
 
 ##Installing python3
+
 > brew install python3
+
 You can also refer to the below link on how to [install python3](http://programwithus.com/learn-to-code/install-python3-mac/)
 
 **Running the tests**
+
 1. Download the source code to your macBook, unzip the file.
 2. Access to the directory where the project(project name: wordcount-project) is, you can see two sub-folders (templates and wordcount) and manage.py file.
 3. run the command line *python3 manage.py runserver* via terminal, then the server starts running. Please check the below output:
