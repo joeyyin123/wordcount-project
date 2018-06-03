@@ -36,9 +36,13 @@ You can also refer to the below link on how to [install python3](http://programw
 > Performing system checks...
 
 > System check identified no issues (0 silenced).
+
 > June 03, 2018 - 10:43:39
+
 > Django version 2.0.5, using settings 'wordcount.settings'
+
 > Starting development server at http://127.0.0.1:8000/
+
 > Quit the server with CONTROL-C.
 
 4. You can go to the server http://127.0.0.1:8000/ to test the website. When you input characters in the textarea, then click the "count!" button, the output should just be like below:
