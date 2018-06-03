@@ -26,10 +26,13 @@ You can also refer to the below link on how to [install python3](http://programw
 **Running the tests**
 
 1. Download the source code to your macBook, unzip the file.
+
 2. Access to the directory where the project(project name: wordcount-project) is, you can see two sub-folders (templates and wordcount) and manage.py file.
+
 3. run the command line *python3 manage.py runserver* via terminal, then the server starts running. Please check the below output:
 
 > JOYIN-M-L2GU:wordcount-project-master joyin$ python3 manage.py runserver
+
 > Performing system checks...
 
 > System check identified no issues (0 silenced).
@@ -37,6 +40,7 @@ You can also refer to the below link on how to [install python3](http://programw
 > Django version 2.0.5, using settings 'wordcount.settings'
 > Starting development server at http://127.0.0.1:8000/
 > Quit the server with CONTROL-C.
+
 4. You can go to the server http://127.0.0.1:8000/ to test the website. When you input characters in the textarea, then click the "count!" button, the output should just be like below:
 
 ```
