@@ -10,13 +10,14 @@ You can use this website to compute the characters easily.
 **Prerequisites**
 
 Django is a free and open source web application framework, written in Python. A web framework is a set of components that helps you to develop websites faster and easier.
+
 **Installing Django**
 
 > pip install Django==2.0.5
 
 You can also refer to the below link on how to install all the three options to get Django [Download Django](https://www.djangoproject.com/download/).
 
-##Installing python3
+**Installing python3**
 
 > brew install python3
 
